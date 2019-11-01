@@ -20,6 +20,6 @@
 5. Stres
 6. Lingkungan yang kurang nyaman.
 7. Tidak menyukai pekerjaan tersebut
-dll
+dll @ulend @snapend
 
 dikutip dari https://cintalia.com/gaya-hidup/penyebab-malas-kerja
