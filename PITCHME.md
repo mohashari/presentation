@@ -9,8 +9,9 @@
 
 
 ---
-
-## Ketahuilah penyebab nya
+# Ketahuilah penyebab nya
+---
+## Sebab
 
 1. Pekerjaan yang menumpuk
 2. Mengantuk.
@@ -19,8 +20,6 @@
 5. Stres
 6. Lingkungan yang kurang nyaman.
 7. Tidak menyukai pekerjaan tersebut
-8. Gaji yang tidak sebanding dengan jam kerja
-9. Tidak memiliki target untuk sebuah pencapaian.
-10. Tidak ada yang memotivasi
+dll
 
 dikutip dari https://cintalia.com/gaya-hidup/penyebab-malas-kerja
