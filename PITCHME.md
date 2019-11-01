@@ -51,3 +51,7 @@ Ciptakan Suasana Baru dengan Mendekorasi Tempat Kerja Anda
 
 ![IMAGE](assets/img/laptop.jpg)
 
+---
+## Tips
+Cobalah Berpikir Positif
+![IMAGE](assets/img/positive.jpg)
