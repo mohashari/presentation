@@ -12,9 +12,6 @@
 # Ketahuilah penyebab nya
 ---
 ## Sebab
-@snapend
-
-@snap[west span-55] @ul[list-spaced-bullets text-white text-09]
 
 * Pekerjaan yang menumpuk
 * Mengantuk.
