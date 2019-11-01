@@ -15,6 +15,7 @@
 @snapend
 
 @snap[west span-55] @ul[list-spaced-bullets text-white text-09]
+
 * Pekerjaan yang menumpuk
 * Mengantuk.
 * Kekenyangan saat sarapan atau makan siang
@@ -22,6 +23,6 @@
 * Stres
 * Lingkungan yang kurang nyaman.
 * Tidak menyukai pekerjaan tersebut
-dll @ulend @snapend
+dll 
 
 dikutip dari https://cintalia.com/gaya-hidup/penyebab-malas-kerja
