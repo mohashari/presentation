@@ -12,14 +12,16 @@
 # Ketahuilah penyebab nya
 ---
 ## Sebab
+@snapend
 
-1. Pekerjaan yang menumpuk
-2. Mengantuk.
-3. Kekenyangan saat sarapan atau makan siang
-4. Pekerjaan yang cukup rumit
-5. Stres
-6. Lingkungan yang kurang nyaman.
-7. Tidak menyukai pekerjaan tersebut
+@snap[west span-55] @ul[list-spaced-bullets text-white text-09]
+* Pekerjaan yang menumpuk
+* Mengantuk.
+* Kekenyangan saat sarapan atau makan siang
+* Pekerjaan yang cukup rumit
+* Stres
+* Lingkungan yang kurang nyaman.
+* Tidak menyukai pekerjaan tersebut
 dll @ulend @snapend
 
 dikutip dari https://cintalia.com/gaya-hidup/penyebab-malas-kerja
