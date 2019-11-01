@@ -34,3 +34,20 @@ di kutip dari https://www.duniakaryawan.com/cara-menghilangkan-kejenuhan-dalam-b
  
 ![IMAGE](assets/img/santai.jpg)
 
+---
+## Tips
+Coba Cari Tahu Penyebab Kejenuhan
+![IMAGE](assets/img/berpikir.png)
+
+---
+## Tips
+Lakukan Sesuatu yang Menyenangkan Saat Bekerja
+
+![IMAGE](assets/img/happy.jpg)
+
+---
+## Tips
+Ciptakan Suasana Baru dengan Mendekorasi Tempat Kerja Anda
+
+![IMAGE](assets/img/laptop.jpg)
+
